@@ -1,3 +1,12 @@
 pydantic
 python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+defusedxml
 wikipedia
+youtube_search
+langgraph
+langchain_google_genai
